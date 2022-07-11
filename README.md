@@ -227,3 +227,6 @@ Similarly, we can get the basic technical capabilities of this sensor with the f
  Serial.println("------------------------------------");
  Serial.println("");
 ```
+
+url=https://github.com/adafruit/Adafruit_Sensor
+adafruit/DHT sensor library@^1.4.3
